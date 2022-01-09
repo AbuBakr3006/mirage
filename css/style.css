@@ -527,21 +527,39 @@ body {
 
 
 
-.gl{
+.gl {
     display: flex;
     justify-content: space-between;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-#xizmat{
+#xizmat {
     border: 0px;
     background-color: #f78cb6;
     color: #fff;
 }
 
-.footer{
+.footer {
     background-image: url(/img/footer-fon.svg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.footer-itm {
+    width: 90px;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #919299;
+    padding-bottom: 25px;
+}
+
+.footer-ite{
+    width: 110px;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #919299;
+    padding-bottom: 25px;
 }
